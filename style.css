@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+}
+h2{
+/*   font-size: 1rem; */
+/*   text-align: center; */
+  margin: auto;
+  width: fit-content;
+  background-color: #dfc8d3;
+  
+}
+#amount{
+  width: 5rem;
+  height: 3rem;
+  font-size: larger;
+  margin-top: 1rem;
+}
+#lable{
+  font-size: xx-large;
+  background: antiquewhite;
+  margin-top: 1rem;
+}
+#result{
+  margin: 1rem;
+  font-size: large;
+}
